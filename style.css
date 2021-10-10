@@ -1,0 +1,145 @@
+.btn{
+   border-radius: 20px;
+   margin-top: 20px;
+   margin-bottom: 170px;
+}
+.template1{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    padding-top: 50px;
+    background-color: rgb(245, 191, 170);
+}
+.logo{
+    padding-left: 100px;
+}
+footer{
+    padding-bottom: 5px;
+}
+.template2{
+    display: grid;
+    grid-template-columns: 5fr 7fr;
+    padding-top: 30px;
+    background-color: rgb(226, 252, 78);
+    height: 500px;
+}
+.card{
+    background-color: rgb(245, 245, 176);
+    margin-right: 15px;
+    height: 400px;
+    width: 240px;
+}
+.template2{
+    display: grid;
+    grid-template-columns: 5fr 7fr;
+    padding-top: 50px;
+}
+thead{
+    background-color: orangered;
+    color: white;
+}
+.template3{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 5fr 2fr 5fr;
+    background-color: lightsteelblue;
+    
+}
+table{
+    margin-top: 50px;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
